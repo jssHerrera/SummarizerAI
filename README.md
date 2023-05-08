@@ -12,7 +12,8 @@ Web application that generates Summary Articles uses (RapidApi AI Summarizer).
 5. TailwindCSS
 
 ### API
-[Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel){:onclick="window.open(this.href, '_blank'); return false;"}
+1. [Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel)
+
 ### Deployment
 1. Frontend - Vercel
 
