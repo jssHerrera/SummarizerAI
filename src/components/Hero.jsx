@@ -12,8 +12,7 @@ export const Hero = () => {
         <span className='emerald_gradient'>OpenAI GPT-4</span>
       </h1>
       <h2 className='desc'>
-        Simplify your reading with Summize, an open-source article summarizer
-        that transforms lengthy articles into clear and concise summaries
+        Simplifica tu lectura con Summize, un resumidor de artículos de código abierto que transforma artículos extensos en resúmenes claros y concisos.
       </h2>
     </header>
   )
